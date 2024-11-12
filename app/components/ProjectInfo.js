@@ -8,7 +8,7 @@ function ProjectInfo() {
                     GitHub
                 </a>.
                 My project is about DDOS attacks and how to prevent them. For the project we plan to showcase this by explaining
-                what DDOS attacks are, the threats they pose, and some ways that they are prevented in the real world.
+                what DDOS attacks are, the threats they pose and what they can do, and some ways that they are prevented in the real world.
             </p>
         </div>
     );
